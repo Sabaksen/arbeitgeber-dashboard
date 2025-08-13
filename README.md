@@ -11,7 +11,7 @@ git clone https://github.com/Sabaksen/arbeitgeber-dashboard.git
 
 2. In das Projektverzeichnis wechseln:
 ```
-cd personal-website
+cd arbeitgeber-dashboard
 ```
 
 3. Abhängigkeiten installieren:
