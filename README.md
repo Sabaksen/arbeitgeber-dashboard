@@ -6,7 +6,7 @@ Ein Next.js-Projekt zur Anzeige eines Dashboards für Arbeitgeber mit Übersicht
 
 1. Repository klonen:
 ```
-git clone [REPOSITORY_URL]
+git clone https://github.com/Sabaksen/arbeitgeber-dashboard.git
 ```
 
 2. In das Projektverzeichnis wechseln:
